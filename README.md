@@ -2,8 +2,7 @@
 - 👀 I’m interested in web developing
 - 🌱 I’m currently learning full stack developer
 - 💞️ I’m looking to collaborate on open-source projects.
-
-💫 I am open to work on new ideas.
+-💫 I am open to work on new ideas.
 - 📫 How to reach me tarunarawat2218@gmail.com
 
 <!---
