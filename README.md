@@ -1,9 +1,12 @@
 <h1 align="center">Hi there! 👋, I'm Taruna Rawat</h1>
 <!-- - 👀 I’m interested in web developing -->
 <h3 align="center">A passionate Full-Stack Developer currently learning and building awesome projects!</h3>
+
 -💫 I am open to work on new ideas.
+
 - 📫 How to reach me tarunarawat2218@gmail.com
-🚀 About Me
+
+-🚀 About Me
 - 👀 **Interests:** I love exploring new technologies and working on exciting web development projects.
 - 🌱 **Currently Learning:** Full Stack Development with a focus on modern frameworks.
 - 💡 **Open to:** New ideas and collaborations! Feel free to reach out if you have an exciting project.
