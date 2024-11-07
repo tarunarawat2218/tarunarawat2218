@@ -2,9 +2,6 @@
 <!-- - 👀 I’m interested in web developing -->
 <h3 align="center">A passionate Full-Stack Developer currently learning and building awesome projects!</h3>
 
--💫 I am open to work on new ideas.
-
-- 📫 How to reach me tarunarawat2218@gmail.com
 
 -🚀 About Me
 - 👀 **Interests:** I love exploring new technologies and working on exciting web development projects.
